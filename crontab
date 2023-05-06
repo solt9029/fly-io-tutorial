@@ -1,0 +1,1 @@
+*/5 * * * * bundle exec rake /rails/lib/tasks/create_hellos.rake create_hellos
